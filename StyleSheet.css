@@ -30,3 +30,8 @@ td {
 .centerCell {
   text-align: center;
 }
+
+#container div{
+    display:inline-block;
+    width:130px;
+}
